@@ -1,0 +1,8 @@
+name = input("input your name:")
+if name == "Sagi":
+    print ("hi Sagi")
+print ("welcome")
+
+if True:
+    print("In if")
+print("after if")
